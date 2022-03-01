@@ -1,4 +1,4 @@
-# This is a comment and you should have a space after the number sign.
+# This is a comment, and you should have a space after the number sign.
 # Click the enter key after the comment to remove the squiggly
 # yellow line
 
