@@ -31,4 +31,3 @@ def counter_cube():
     print(cubes)
 
 counter_cube()
-

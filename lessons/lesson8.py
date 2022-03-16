@@ -337,7 +337,7 @@ def simple_dict_square():
     for truck in trucks:
         print(trucks[truck])
 
-# simple_dict_square()
+simple_dict_square()
 
 
 # loop using values method
