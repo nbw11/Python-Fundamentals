@@ -54,7 +54,7 @@ print(measure.to_inches())
 # The poperty decorator annotation allows the creation of methods to replace
 # the need for the property method
 class Centimeter:
-    def __init__(self,size):
+    def __init__(self, size):
         self._size = size
 
     def to_millimeters(self):
