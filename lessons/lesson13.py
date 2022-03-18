@@ -18,4 +18,3 @@ print(house3.door_color)
 if __name__ == '__main__':
     house2 = house.House(21, 'dirt', 'straw', 'blue')
     print(house2.door_open_close())
-    
